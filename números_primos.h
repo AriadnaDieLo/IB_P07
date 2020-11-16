@@ -3,4 +3,4 @@
 
 using namespace std;
 
-bool IsPrime(int numero_test);
+bool IsPrime(int a);
