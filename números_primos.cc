@@ -3,7 +3,7 @@
 #include "numeros_primos.h"
 using namespace std;
 
-bool IsPrime(int numero_test){
+IsPrime(numero_test){
   bool primo;
   int prueba = 0;
   for(int i = 1; i <= numero_test; ++i ) {
